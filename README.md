@@ -2,8 +2,8 @@
 
 Welcome to **ESP32 Nofrendo**, a project that brings the [Nofrendo NES emulator](https://github.com/libretro/nofrendo) to the ESP32 microcontroller with a custom driver for the ILI9225 2.2" TFT display. This project adapts the open-source Nofrendo emulator for a portable, low-cost gaming platform, featuring a tailored display driver, button controls, and SPIFFS-based ROM loading. Key challenges, such as Task Watchdog Timer (WDT) errors and controller initialization issues, were resolved to ensure smooth operation on the ESP32.
 
-![image](nofrendo-galaga-1)
-![image2](nofrendo-galaga-2)
+![image](nofrendo-galaga-1.png)
+![image2](nofrendo-galaga-2.png)
 
 ## Project Overview
 
